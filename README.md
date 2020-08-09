@@ -12,8 +12,8 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 - 🌱 I'm currently learning gRPC.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝 [Resume]()
+- 📫 How to reach me: vlad.vdlald@gmail.com;
+<!-- - 📝 [Resume]() -->
 
 #### Languages and Tools:
 
