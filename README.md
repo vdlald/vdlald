@@ -10,7 +10,7 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 #### Talking about Personal Stuffs:
 
-- 🌱 I'm currently learning gRPC.
+- 🌱 I'm currently taking a course on Apache Kafka on Udemy. I'm also working on a project with gRPC-based microserver architecture.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vlad.vdlald@gmail.com;
 <!-- - 📝 [Resume]() -->
