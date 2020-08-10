@@ -17,6 +17,22 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 #### Languages and Tools:
 
+<div>
+  <img src="https://img.icons8.com/color/28/000000/spring-logo.png"/> 
+  <img src="https://img.icons8.com/color/28/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/28/000000/golang.png"/>
+  <img src="https://img.icons8.com/color/28/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/28/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/28/000000/django.png"/>
+  <img src="https://img.icons8.com/color/28/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/metro/28/000000/mysql.png"/>
+  <img src="https://img.icons8.com/color/28/000000/linux.png"/>
+  <img src="https://img.icons8.com/color/28/000000/c-plus-plus-logo.png"/>
+</div>
+
+<br/>
+
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdlald&layout=compact)
