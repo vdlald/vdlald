@@ -1,6 +1,6 @@
 ### Hi, I'm Vladislav 👋
 
-<a href="https://linkedin.com/in/vladislav-golubinov"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/vdlald/vdlald/master/etc/linkedin.svg"></a>
+
 
 Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer from Russia, currently, I'm a Student, Freelancer. Beside's programming, I enjoy eating food and listen music. Thanks for visiting. 
 
@@ -8,10 +8,14 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 #### Talking about Personal Stuffs:
 
-- 🌱 I'm currently taking a course on Apache Kafka on Udemy. I'm also working on a project with gRPC-based microserver architecture.
+- 🌱 I'm currently taking a course on Apache Kafka on Udemy.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: vlad.vdlald@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/121oVlFxO6riDgFeF6kLHjvR20pPxRDHj/view?usp=sharing)
+
+#### How to reach me
+- 📫 vlad.vdlald@gmail.com
+- <a href="https://linkedin.com/in/vladislav-golubinov"><img alt="LinkedIn" title="LinkedIn" height="16" width="16" src="https://raw.githubusercontent.com/vdlald/vdlald/master/etc/linkedin.svg"> in/vladislav-golubinov</a>
+- <a href="https://vk.com/vladislav.tech"><img alt="VK" title="VK" height="16" width="16" src="https://vk.com/images/icons/favicons/fav_logo.ico?6"> vladislav.tech</a>
 
 #### Languages and Tools:
 
