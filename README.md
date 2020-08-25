@@ -4,7 +4,7 @@
 
 Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer from Russia, currently, I'm a Student, Freelancer. Beside's programming, I enjoy eating food and listen music. Thanks for visiting. 
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 #### Talking about Personal Stuffs:
 
