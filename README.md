@@ -4,8 +4,6 @@
 
 Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer from Russia, currently, I'm a Student, Freelancer. Beside's programming, I enjoy eating food and listen music. Thanks for visiting. 
 
-![Vdlald's github stats](https://github-readme-stats.vercel.app/api?username=vdlald&count_private=true)
-
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" /> -->
 
 #### Talking about Personal Stuffs:
@@ -13,7 +11,7 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 - 🌱 I'm currently taking a course on Apache Kafka on Udemy. I'm also working on a project with gRPC-based microserver architecture.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vlad.vdlald@gmail.com;
-<!-- - 📝 [Resume]() -->
+- 📝 [Resume](https://drive.google.com/file/d/121oVlFxO6riDgFeF6kLHjvR20pPxRDHj/view?usp=sharing)
 
 #### Languages and Tools:
 
@@ -35,4 +33,4 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdlald&layout=compact)
+![Vdlald's github stats](https://github-readme-stats.vercel.app/api?username=vdlald&count_private=true)
