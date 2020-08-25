@@ -31,6 +31,4 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 <br/>
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
-
 ![Vdlald's github stats](https://github-readme-stats.vercel.app/api?username=vdlald&count_private=true)
