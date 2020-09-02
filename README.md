@@ -17,7 +17,7 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 - <a href="https://linkedin.com/in/vladislav-golubinov"><img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="https://raw.githubusercontent.com/vdlald/vdlald/master/etc/linkedin.svg" style="vertical-align: bottom;"> in/vladislav-golubinov</a>
 - <a href="https://vk.com/vladislav.tech"><img alt="VK" title="VK" height="20" width="20" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" style="vertical-align: bottom;"> vladislav.tech</a>
 
-#### Languages and Tools:
+<!-- #### Languages and Tools:
 
 <div>
   <img src="https://img.icons8.com/color/28/000000/spring-logo.png"/> 
@@ -33,6 +33,6 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
   <img src="https://img.icons8.com/color/28/000000/c-plus-plus-logo.png"/>
 </div>
 
-<br/>
+<br/> -->
 
 ![Vdlald's github stats](https://github-readme-stats.vercel.app/api?username=vdlald&count_private=true)
