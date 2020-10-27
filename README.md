@@ -8,7 +8,7 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 #### Talking about Personal Stuffs:
 
-- 🌱 I'm currently taking a course on Apache Kafka on Udemy.
+- 🌱 I'm currently taking a course on NIIT.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://drive.google.com/file/d/1tcJyhPRC6CnAz-zmKUrVEiLjvhjzqNaR/view?usp=sharing)
 
