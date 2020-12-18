@@ -35,4 +35,4 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 <br/> -->
 
-![Vdlald's github stats](https://github-readme-stats.vercel.app/api?username=vdlald&count_private=true)
+<!-- ![Vdlald's github stats](https://github-readme-stats.vercel.app/api?username=vdlald&count_private=true) -->
