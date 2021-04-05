@@ -10,7 +10,7 @@ Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer fro
 
 - 🌱 I'm currently intern at Orion Innovation.
 - 💬 Ask me about anything, I am happy to help;
-- 📝 Resume [RUS](https://drive.google.com/file/d/1tcJyhPRC6CnAz-zmKUrVEiLjvhjzqNaR/view?usp=sharing), <!-- [ENG](https://drive.google.com/file/d/1RfguKqbAZstOglUWOA6ta2O6ZUYlyJ7L/view?usp=sharing) -->
+- 📝 Resume [RUS](https://drive.google.com/file/d/1tcJyhPRC6CnAz-zmKUrVEiLjvhjzqNaR/view?usp=sharing) <!--, [ENG](https://drive.google.com/file/d/1RfguKqbAZstOglUWOA6ta2O6ZUYlyJ7L/view?usp=sharing) -->
 
 #### How to reach me
 - 📫 vlad.vdlald@gmail.com
