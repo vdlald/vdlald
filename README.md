@@ -2,13 +2,13 @@
 
 
 
-Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer from Russia, currently, I'm a Student, Freelancer. Beside's programming, I enjoy eating food and listen music. Thanks for visiting. 
+Welcome to my profile! Hi, I'm Golubinov Vladislav, a Java Backend Developer from Russia, currently, I'm a Student. Beside's programming, I enjoy eating food and listen music. Thanks for visiting. 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 #### Talking about Personal Stuffs:
 
-- 🌱 I'm currently intern at Orion Innovation.
+- 🌱 I'm currently intern at JetBrains.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 Resume [RUS](https://drive.google.com/file/d/1tcJyhPRC6CnAz-zmKUrVEiLjvhjzqNaR/view?usp=sharing) <!--, [ENG](https://drive.google.com/file/d/1RfguKqbAZstOglUWOA6ta2O6ZUYlyJ7L/view?usp=sharing) -->
 
