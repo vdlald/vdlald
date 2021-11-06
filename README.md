@@ -14,7 +14,7 @@ Welcome to my profile! Hi, I'm Vladislav Golubinov, a Java Backend Developer fro
 #### How to reach me
 - 📫 vlad.vdlald@gmail.com
 - <a href="https://linkedin.com/in/vladislav-golubinov"><img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="https://raw.githubusercontent.com/vdlald/vdlald/master/etc/linkedin.svg" style="vertical-align: bottom;"> in/vladislav-golubinov</a>
-- <a href="https://vk.com/vladislav.tech"><img alt="VK" title="VK" height="20" width="20" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" style="vertical-align: bottom;"> vladislav.tech</a>
+- <a href="https://vk.com/vladislav.golubinov"><img alt="VK" title="VK" height="20" width="20" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" style="vertical-align: bottom;"> vladislav.golubinov</a>
 
 <!-- #### Languages and Tools:
 
